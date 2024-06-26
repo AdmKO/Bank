@@ -1,4 +1,4 @@
-# HR-dashboard
+# Bank-dashboard
 
 ## Цель проекта
 
